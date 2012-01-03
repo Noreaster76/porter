@@ -1,0 +1,3 @@
+This is a simple Bash script to port a file containing TestUnit tests to RSpec examples. Don't ask me why I didn't do it in Ruby.
+
+Anyway, the script is run from a Bash prompt, and the one and only argument it takes is the name of the TestUnit file to port.
